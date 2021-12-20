@@ -58,9 +58,6 @@
 Обмен ключами и генерация происходят при каждом запросе и каждый раз разные соответственно.
 Используемые функции: 
 
-![image](https://user-images.githubusercontent.com/92279258/145921923-e81dfef7-7d2d-40ed-a8f4-651c2cb8361d.png)
-
-![image](https://user-images.githubusercontent.com/92279258/145922007-3be65b53-911d-41ce-9a15-11f8aac5e635.png)
 
 ![image](https://user-images.githubusercontent.com/92279258/145922232-9ce8e438-8ca7-4511-8af5-ca8db45cec5a.png)
 
